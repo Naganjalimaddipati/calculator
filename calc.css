@@ -1,0 +1,26 @@
+#body{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20220122/pngtree-an-illustration-of-math-operators-symbols-shining-on-a-black-background-in-3d-photo-image_28914334.jpg");
+     background-size: cover;
+}    
+h2{
+    color: rgb(231, 234, 245);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+    height: 65px;
+    width: 300px;
+    padding: 50;
+    border-radius: 10px;
+    background-color: rgb(236, 229, 220);
+    font-size:30px ;
+    font-weight: bolder;
+}
+button{
+    width: 75px;
+    padding: 50;
+    font-size: 45px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: blueviolet;
+}
